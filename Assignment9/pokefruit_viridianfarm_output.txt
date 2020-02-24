@@ -1,0 +1,16 @@
+Enter file name: pokefruit_viridianfarm.txt
+Fruits yield from final year:
+****************************
+Waterfruits: 8
+Grassfruits: 9
+Megafriuts: 0
+Firefruits: 10
+Joltfruits: 22
+
+Total farm yield after 3 years:
+**********************************
+Waterfruits: 22
+Grassfruits: 26
+Megafriuts: 0
+Firefruits: 28
+Joltfruits: 47

@@ -1,0 +1,16 @@
+Enter file name: pokefruit_pewterfarm.txt
+Fruits yield from final year:
+****************************
+Waterfruits: 6
+Grassfruits: 6
+Megafriuts: 1
+Firefruits: 4
+Joltfruits: 8
+
+Total farm yield after 2 years:
+**********************************
+Waterfruits: 11
+Grassfruits: 11
+Megafriuts: 2
+Firefruits: 8
+Joltfruits: 14
